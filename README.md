@@ -2,7 +2,7 @@
 
 The EPAgent Plug-ins for CA SSO monitors SiteMinder processes.
 
-ssoProcMon.pl - returns CPU & RSS for each SM process.
+ssoProcMon.pl - returns CPU & RSS for each SM process.  
 ssoStatus.pl - returns up/down status for SM Policy Server.  
 
 ## Dependencies
