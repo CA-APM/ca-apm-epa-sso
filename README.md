@@ -1,4 +1,4 @@
-# EPAgent Plugins for CA SSO
+# EPAgent Plug-ins for CA SSO
 
 The EPAgent Plug-ins for CA SSO monitors SiteMinder processes.
 
